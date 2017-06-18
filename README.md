@@ -1,2 +1,2 @@
-# wordpress.RetrofitExample2
-Another example for my blog post: https://goo.gl/NUcNBy
+# wordpress.retrofitExample
+Retrofit 2.x example for the blog post: http://wp.me/p2A54g-7d
